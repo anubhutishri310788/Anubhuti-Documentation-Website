@@ -1,4 +1,5 @@
 theme: minima
-title: "Anubhuti Shrivastava | Technical Writer"
-description: "Portfolio of API documentation, product guides, and technical content."
-author: "Anubhuti Shrivastava"
+title: Technical Documentation
+description: Documentation and guides
+author: Anubhuti Shrivastava
+markdown: kramdown
